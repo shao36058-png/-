@@ -1,0 +1,4 @@
+interface:
+  display_name: "HFSS Wideband Bandpass Filter"
+  short_description: "Inspect and optimize LTCC and RF bandpass filters"
+  default_prompt: "Use $hfss-wideband-bandpass-filter to inspect my open HFSS filter and verify its bandwidth, loss, and convergence."

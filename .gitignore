@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.aedt
+*.aedt.lock
+*.aedt.auto
+*.aedtz
+*.aedtresults/
+*.pyaedt/
+*.pdf
+local-*/
+exports/
