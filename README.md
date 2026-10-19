@@ -4,6 +4,18 @@
 
 提供绝对 −3 dB 与峰值下降 3 dB 两种带宽口径、通带边界、插损、两端回损、纹波、群时延和完整两端口无源性检查，并核对材料、终端端口、实际收敛和扫频来源。
 
+## 分类与检索
+
+**作者分类：电子工程 → 射频与微波工程 / Electronics Engineering → RF and Microwave Engineering。**
+
+| 技能 | 器件细分 |
+|---|---|
+| HFSS 宽带带通滤波器 | 射频无源器件 → 带通滤波器 → LTCC 滤波器 / RF Bandpass Filters |
+
+职业参考：[Electronics Engineers, Except Computer（SOC 17-2072）](https://skillsmp.com/occupations/electronics-engineers-except-computer)。技能的 `metadata` 记录作者建议分类，`description` 提供中英文器件名称，方便识别与检索。
+
+这些是作者维护的分类信息。SkillsMP 的职业和类别标签由平台维护；其公开文档未承诺依据这些自定义字段自动分类。本节不表示网页上的“分类待定”已解除。
+
 ## 安装
 
 ```bash

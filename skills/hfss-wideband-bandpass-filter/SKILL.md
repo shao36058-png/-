@@ -1,10 +1,14 @@
 ---
 name: hfss-wideband-bandpass-filter
-description: Reproduce, inspect, optimize, and validate HFSS RF bandpass filters, especially multilayer LTCC filters with embedded conductors and PCB launches. Use for bandwidth extraction, insertion and return loss, stopband masks, terminal ports, layer-stack checks, and dimension optimization.
+description: "面向射频与微波工程的 HFSS 宽带带通滤波器、LTCC 滤波器复现、优化与结果检查。 Reproduce, inspect, optimize, and validate HFSS RF bandpass filters, especially multilayer LTCC filters with embedded conductors and PCB launches. Use for bandwidth extraction, insertion and return loss, stopband masks, terminal ports, layer-stack checks, and dimension optimization."
 license: MIT
 metadata:
   author: "shao36058-png"
   version: "0.1.0"
+  domain: "Electronics Engineering / 电子工程"
+  specialty: "RF and Microwave Engineering / 射频与微波工程"
+  component: "RF Bandpass Filters / 射频带通滤波器"
+  author-suggested-soc: "17-2072"
 ---
 
 # HFSS Wideband Bandpass Filter
